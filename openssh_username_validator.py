@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# CVE-2018-15473 This is an updated version of the SSH User Enumeration script by Leap Security (@LeapSecurity) https://leapsecurity.io
+# Credits: Matthew Daley, Justin Gardner, Lee David Painter
+# https://www.exploit-db.com/exploits/45939
 
 import argparse
 import logging
